@@ -23,7 +23,7 @@
     <body class="antialiased">
         <div>
             <h1>Bem vindo a API de agrupamentos de voos!</h1>
-            <h2>Visite a documentação para mais informações ;D</h2>
+            <h2>Visite a documentação para mais informações</h2>
             <p>Desenvolvido por Willer Santos</p>
         </div>
     </body>
